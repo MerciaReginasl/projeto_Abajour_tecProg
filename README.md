@@ -8,4 +8,6 @@ Link2: https://www.tinkercad.com/
 
 Link3: https://www.arduino.cc/
 
-       https://docs.arduino.cc/?_gl=1*g7qji6*_gcl_au*MTY1NDM5MDMxNS4xNzI0NzY4MjAx*FPAU*MTY1NDM5MDMxNS4xNzI0NzY4MjAx*_ga*OTExMTk3MDAwLjE3MjQ3NjU3ODI.*_ga_NEXN8H46L5*MTcyNDc2ODIwMC4yLjEuMTcyNDc2ODI0MC4wLjAuMTQ3MjIxMzg4NA..*_fplc*TnRJdmd5WERtMkRsZkF1NEg4WlhDZXZBelNTaEQ5c2lOaXNuWkJZQlpnemdaUVoxRjV0OWpxNjBNeFlQaVdJT1VYSktVZjdzaERNUk9yT0FyUDA0cjc2cHRyRENvdG9reTVYYzU0UEpiTWNPNW5tUzZ0SDdqSndDOE5tYWFRJTNEJTNE
+Link4: https://docs.arduino.cc/?_gl=1*g7qji6*_gcl_au*MTY1NDM5MDMxNS4xNzI0NzY4MjAx*FPAU*MTY1NDM5MDMxNS4xNzI0NzY4MjAx*_ga*OTExMTk3MDAwLjE3MjQ3NjU3ODI.*_ga_NEXN8H46L5*MTcyNDc2ODIwMC4yLjEuMTcyNDc2ODI0MC4wLjAuMTQ3MjIxMzg4NA..*_fplc*TnRJdmd5WERtMkRsZkF1NEg4WlhDZXZBelNTaEQ5c2lOaXNuWkJZQlpnemdaUVoxRjV0OWpxNjBNeFlQaVdJT1VYSktVZjdzaERNUk9yT0FyUDA0cjc2cHRyRENvdG9reTVYYzU0UEpiTWNPNW5tUzZ0SDdqSndDOE5tYWFRJTNEJTNE
+
+Link5: https://docs.arduino.cc/built-in-examples/analog/AnalogInOutSerial/
